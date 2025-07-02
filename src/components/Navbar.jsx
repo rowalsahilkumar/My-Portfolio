@@ -56,7 +56,6 @@ export const Navbar = () => {
               </a>
             ))}
           </div>
-          <ThemeToggle />
         </div>
 
         {/* Mobile: Hamburger */}
